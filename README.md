@@ -2,6 +2,7 @@
 
 ## Деплой
 
+https://isg-end.github.io/zakrivayuschiy-teg/
 
 ## Описание
 
